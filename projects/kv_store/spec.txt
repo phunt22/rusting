@@ -1,0 +1,6 @@
+Build a simple key-value store
+
+Inspired by DDIA
+
+Features:
+- Basic in-memory put/get, file persistence

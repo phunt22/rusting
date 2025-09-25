@@ -1,0 +1,5 @@
+Async job queue
+
+Goals:
+- Thread pools, retries, async, metrics, etc.
+
