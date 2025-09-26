@@ -1,6 +1,0 @@
-Make a CLI calculator ...
-
-Goals:
-- Parsing
-- Error Handling
-- Modules

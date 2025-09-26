@@ -1,4 +1,0 @@
-kv store but better
-
-Goals:
-- Benchmarks/performance (criterion)

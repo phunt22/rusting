@@ -1,6 +1,0 @@
-Make a toy vector search
-
-
-Goals:
-- expand on concepts learned earlier
-- cos sim, HNSW (hierarchical navigable small world), mmap, metadata filters
