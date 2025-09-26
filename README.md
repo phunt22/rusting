@@ -6,7 +6,7 @@ Please abide by all academic integrity policies, see the disclaimer below for mo
 
 ## Prerequisites
 
-- Read the Rust book and complete Rustlings
+- Read the [Rust book](https://doc.rust-lang.org/book/) and complete [Rustlings](https://rustlings.rust-lang.org/)
 - Basic data structures and algorithms knowledge (CS foundations)
 
 ## Setup
