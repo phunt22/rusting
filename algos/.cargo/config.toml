@@ -1,0 +1,9 @@
+[alias]
+# Run tests
+ex = "test --test"
+ex-all = "test"
+ex-verbose = "test -- --nocapture"
+
+# Formatting
+fmt-check = "fmt -- --check"
+lint = "clippy -- -D warnings"
